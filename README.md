@@ -1,2 +1,4 @@
 # swiftui_customnavbar
-swiftui Özel navigasyon bar oluşturma 
+SWIFTUI ile Özel navigasyon bar oluşturma 
+Navigasyon butonunu gizleyip kendi navigasyon view'ımızı yaparak özelleştirebildiğimiz proje
+## Ekran Görüntüleri
